@@ -1,0 +1,11 @@
+q:sumit is thirsty . antoine is thirsty . yann is bored . Q where will yann go PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD 
+ prediction:kitchen 
+ true label:garden
+q:sumit is bored . jason is thirsty . antoine is bored . yann is bored . sumit went to the garden . Q why did sumit go to the garden PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD 
+ prediction:bored 
+ true label:bored
+
+
+ q:the bedroom is east of the office . the bathroom is east of the garden . the hallway is west of the office . the office is south of the garden . the kitchen is south of the office . Q how do you go from the garden to the bedroom 
+ prediction:north west 
+ true label:south east

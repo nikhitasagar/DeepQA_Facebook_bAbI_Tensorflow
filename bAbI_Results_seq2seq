@@ -1,0 +1,1300 @@
+task  1
+Loaded 10000 data samples from qa1_single-supporting-fact_train.txt
+Loaded 1000 data samples from qa1_single-supporting-fact_test.txt
+Context Lengths: max = 72, min = 16, avg = 41
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.811123
+Iter 400, Minibatch Loss = 1.659665
+Iter 600, Minibatch Loss = 1.524446
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-600.cpkt
+Test loss @ iter 600: 1.6211472749710083 
+Test Accuracy @ iter 600: 0.28125 
+Iter 800, Minibatch Loss = 1.395644
+Iter 1000, Minibatch Loss = 1.181001
+Iter 1200, Minibatch Loss = 0.691330
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-1200.cpkt
+Test loss @ iter 1200: 0.6228667497634888 
+Test Accuracy @ iter 1200: 0.734375 
+Iter 1400, Minibatch Loss = 0.394765
+Iter 1600, Minibatch Loss = 0.264978
+Iter 1800, Minibatch Loss = 0.185811
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-1800.cpkt
+Test loss @ iter 1800: 0.5720001459121704 
+Test Accuracy @ iter 1800: 0.8125 
+Iter 2000, Minibatch Loss = 0.072598
+Iter 2200, Minibatch Loss = 0.073838
+Iter 2400, Minibatch Loss = 0.044792
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-2400.cpkt
+Test loss @ iter 2400: 0.2847694158554077 
+Test Accuracy @ iter 2400: 0.9296875 
+Iter 2600, Minibatch Loss = 0.054238
+Iter 2800, Minibatch Loss = 0.075908
+Iter 3000, Minibatch Loss = 0.030751
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-3000.cpkt
+Test loss @ iter 3000: 0.17479810118675232 
+Test Accuracy @ iter 3000: 0.953125 
+Iter 3200, Minibatch Loss = 0.038089
+Iter 3400, Minibatch Loss = 0.024197
+Iter 3600, Minibatch Loss = 0.034252
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-3600.cpkt
+Test loss @ iter 3600: 0.16899779438972473 
+Test Accuracy @ iter 3600: 0.9765625 
+Iter 3800, Minibatch Loss = 0.003338
+Iter 4000, Minibatch Loss = 0.012272
+Iter 4200, Minibatch Loss = 0.004449
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-4200.cpkt
+Test loss @ iter 4200: 0.22996044158935547 
+Test Accuracy @ iter 4200: 0.9453125 
+Iter 4400, Minibatch Loss = 0.020960
+Iter 4600, Minibatch Loss = 0.002181
+Iter 4800, Minibatch Loss = 0.009049
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-4800.cpkt
+Test loss @ iter 4800: 0.1679496318101883 
+Test Accuracy @ iter 4800: 0.96875 
+Iter 5000, Minibatch Loss = 0.000868
+Iter 5200, Minibatch Loss = 0.012860
+Iter 5400, Minibatch Loss = 0.002190
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-5400.cpkt
+Test loss @ iter 5400: 0.22036704421043396 
+Test Accuracy @ iter 5400: 0.9296875 
+Iter 5600, Minibatch Loss = 0.000558
+Iter 5800, Minibatch Loss = 0.001994
+Iter 6000, Minibatch Loss = 0.001987
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_1_iter-6000.cpkt
+Test loss @ iter 6000: 0.14021767675876617 
+Test Accuracy @ iter 6000: 0.984375 
+task  2
+Loaded 10000 data samples from qa2_two-supporting-facts_train.txt
+Loaded 1000 data samples from qa2_two-supporting-facts_test.txt
+Context Lengths: max = 427, min = 17, avg = 100
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.878443
+Iter 400, Minibatch Loss = 1.796411
+Iter 600, Minibatch Loss = 1.788659
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-600.cpkt
+Test loss @ iter 600: 1.7902657985687256 
+Test Accuracy @ iter 600: 0.203125 
+Iter 800, Minibatch Loss = 1.787901
+Iter 1000, Minibatch Loss = 1.807712
+Iter 1200, Minibatch Loss = 1.797918
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-1200.cpkt
+Test loss @ iter 1200: 1.7912795543670654 
+Test Accuracy @ iter 1200: 0.1796875 
+Iter 1400, Minibatch Loss = 1.801651
+Iter 1600, Minibatch Loss = 1.788029
+Iter 1800, Minibatch Loss = 1.797834
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-1800.cpkt
+Test loss @ iter 1800: 1.7974522113800049 
+Test Accuracy @ iter 1800: 0.1328125 
+Iter 2000, Minibatch Loss = 1.796048
+Iter 2200, Minibatch Loss = 1.795387
+Iter 2400, Minibatch Loss = 1.799353
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-2400.cpkt
+Test loss @ iter 2400: 1.8055732250213623 
+Test Accuracy @ iter 2400: 0.1171875 
+Iter 2600, Minibatch Loss = 1.792764
+Iter 2800, Minibatch Loss = 1.795843
+Iter 3000, Minibatch Loss = 1.792303
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-3000.cpkt
+Test loss @ iter 3000: 1.7944843769073486 
+Test Accuracy @ iter 3000: 0.1796875 
+Iter 3200, Minibatch Loss = 1.791115
+Iter 3400, Minibatch Loss = 1.797643
+Iter 3600, Minibatch Loss = 1.790082
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-3600.cpkt
+Test loss @ iter 3600: 1.7862169742584229 
+Test Accuracy @ iter 3600: 0.1953125 
+Iter 3800, Minibatch Loss = 1.789885
+Iter 4000, Minibatch Loss = 1.792152
+Iter 4200, Minibatch Loss = 1.782447
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-4200.cpkt
+Test loss @ iter 4200: 1.7863874435424805 
+Test Accuracy @ iter 4200: 0.15625 
+Iter 4400, Minibatch Loss = 1.795563
+Iter 4600, Minibatch Loss = 1.786414
+Iter 4800, Minibatch Loss = 1.787845
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-4800.cpkt
+Test loss @ iter 4800: 1.7879185676574707 
+Test Accuracy @ iter 4800: 0.2265625 
+Iter 5000, Minibatch Loss = 1.792436
+Iter 5200, Minibatch Loss = 1.787906
+Iter 5400, Minibatch Loss = 1.795828
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-5400.cpkt
+Test loss @ iter 5400: 1.795629620552063 
+Test Accuracy @ iter 5400: 0.140625 
+Iter 5600, Minibatch Loss = 1.799351
+Iter 5800, Minibatch Loss = 1.791826
+Iter 6000, Minibatch Loss = 1.798134
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_2_iter-6000.cpkt
+Test loss @ iter 6000: 1.7903411388397217 
+Test Accuracy @ iter 6000: 0.1796875 
+task  3
+Loaded 10000 data samples from qa3_three-supporting-facts_train.txt
+Loaded 1000 data samples from qa3_three-supporting-facts_test.txt
+Context Lengths: max = 1883, min = 30, avg = 315
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.885268
+Iter 400, Minibatch Loss = 1.835404
+Iter 600, Minibatch Loss = 1.798898
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-600.cpkt
+Test loss @ iter 600: 1.7881823778152466 
+Test Accuracy @ iter 600: 0.234375 
+Iter 800, Minibatch Loss = 1.799787
+Iter 1000, Minibatch Loss = 1.799261
+Iter 1200, Minibatch Loss = 1.784202
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-1200.cpkt
+Test loss @ iter 1200: 1.7972800731658936 
+Test Accuracy @ iter 1200: 0.15625 
+Iter 1400, Minibatch Loss = 1.799596
+Iter 1600, Minibatch Loss = 1.794827
+Iter 1800, Minibatch Loss = 1.793833
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-1800.cpkt
+Test loss @ iter 1800: 1.7903748750686646 
+Test Accuracy @ iter 1800: 0.140625 
+Iter 2000, Minibatch Loss = 1.799513
+Iter 2200, Minibatch Loss = 1.789690
+Iter 2400, Minibatch Loss = 1.801932
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-2400.cpkt
+Test loss @ iter 2400: 1.7862530946731567 
+Test Accuracy @ iter 2400: 0.2421875 
+Iter 2600, Minibatch Loss = 1.794890
+Iter 2800, Minibatch Loss = 1.803011
+Iter 3000, Minibatch Loss = 1.802248
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-3000.cpkt
+Test loss @ iter 3000: 1.7894598245620728 
+Test Accuracy @ iter 3000: 0.203125 
+Iter 3200, Minibatch Loss = 1.795748
+Iter 3400, Minibatch Loss = 1.788791
+Iter 3600, Minibatch Loss = 1.790710
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-3600.cpkt
+Test loss @ iter 3600: 1.7937387228012085 
+Test Accuracy @ iter 3600: 0.171875 
+Iter 3800, Minibatch Loss = 1.790355
+Iter 4000, Minibatch Loss = 1.790474
+Iter 4200, Minibatch Loss = 1.792617
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-4200.cpkt
+Test loss @ iter 4200: 1.794910192489624 
+Test Accuracy @ iter 4200: 0.15625 
+Iter 4400, Minibatch Loss = 1.794490
+Iter 4600, Minibatch Loss = 1.798559
+Iter 4800, Minibatch Loss = 1.794094
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-4800.cpkt
+Test loss @ iter 4800: 1.7979414463043213 
+Test Accuracy @ iter 4800: 0.140625 
+Iter 5000, Minibatch Loss = 1.792120
+Iter 5200, Minibatch Loss = 1.792593
+Iter 5400, Minibatch Loss = 1.799588
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-5400.cpkt
+Test loss @ iter 5400: 1.7872653007507324 
+Test Accuracy @ iter 5400: 0.203125 
+Iter 5600, Minibatch Loss = 1.797119
+Iter 5800, Minibatch Loss = 1.792836
+Iter 6000, Minibatch Loss = 1.792572
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_3_iter-6000.cpkt
+Test loss @ iter 6000: 1.7896506786346436 
+Test Accuracy @ iter 6000: 0.2109375 
+task  4
+Loaded 10000 data samples from qa4_two-arg-relations_train.txt
+Loaded 1000 data samples from qa4_two-arg-relations_test.txt
+Context Lengths: max = 23, min = 23, avg = 23
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.711611
+Iter 400, Minibatch Loss = 0.465596
+Iter 600, Minibatch Loss = 0.402236
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-600.cpkt
+Test loss @ iter 600: 0.4233478009700775 
+Test Accuracy @ iter 600: 0.7421875 
+Iter 800, Minibatch Loss = 0.368847
+Iter 1000, Minibatch Loss = 0.346321
+Iter 1200, Minibatch Loss = 0.374038
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-1200.cpkt
+Test loss @ iter 1200: 0.4256102740764618 
+Test Accuracy @ iter 1200: 0.7578125 
+Iter 1400, Minibatch Loss = 0.201965
+Iter 1600, Minibatch Loss = 0.075415
+Iter 1800, Minibatch Loss = 0.004864
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-1800.cpkt
+Test loss @ iter 1800: 0.0009823025902733207 
+Test Accuracy @ iter 1800: 1.0 
+Iter 2000, Minibatch Loss = 0.005980
+Iter 2200, Minibatch Loss = 0.000915
+Iter 2400, Minibatch Loss = 0.001938
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-2400.cpkt
+Test loss @ iter 2400: 7.8966113505885e-05 
+Test Accuracy @ iter 2400: 1.0 
+Iter 2600, Minibatch Loss = 0.000683
+Iter 2800, Minibatch Loss = 0.029213
+Iter 3000, Minibatch Loss = 0.004536
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-3000.cpkt
+Test loss @ iter 3000: 0.0059451935812830925 
+Test Accuracy @ iter 3000: 0.9921875 
+Iter 3200, Minibatch Loss = 0.001705
+Iter 3400, Minibatch Loss = 0.000543
+Iter 3600, Minibatch Loss = 0.000766
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-3600.cpkt
+Test loss @ iter 3600: 2.253837010357529e-05 
+Test Accuracy @ iter 3600: 1.0 
+Iter 3800, Minibatch Loss = 0.000299
+Iter 4000, Minibatch Loss = 0.000222
+Iter 4200, Minibatch Loss = 0.018594
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-4200.cpkt
+Test loss @ iter 4200: 0.00031690829200670123 
+Test Accuracy @ iter 4200: 1.0 
+Iter 4400, Minibatch Loss = 0.000546
+Iter 4600, Minibatch Loss = 0.000728
+Iter 4800, Minibatch Loss = 0.000525
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-4800.cpkt
+Test loss @ iter 4800: 2.4676090106368065e-05 
+Test Accuracy @ iter 4800: 1.0 
+Iter 5000, Minibatch Loss = 0.000153
+Iter 5200, Minibatch Loss = 0.000358
+Iter 5400, Minibatch Loss = 0.000218
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-5400.cpkt
+Test loss @ iter 5400: 6.426076652132906e-06 
+Test Accuracy @ iter 5400: 1.0 
+Iter 5600, Minibatch Loss = 0.000111
+Iter 5800, Minibatch Loss = 0.000075
+Iter 6000, Minibatch Loss = 0.000198
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_4_iter-6000.cpkt
+Test loss @ iter 6000: 3.8007133298378903e-06 
+Test Accuracy @ iter 6000: 1.0 
+task  5
+Loaded 10000 data samples from qa5_three-arg-relations_train.txt
+Loaded 1000 data samples from qa5_three-arg-relations_test.txt
+Context Lengths: max = 789, min = 18, avg = 131
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 2.010250
+Iter 400, Minibatch Loss = 1.962100
+Iter 600, Minibatch Loss = 1.903035
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-600.cpkt
+Test loss @ iter 600: 1.931477427482605 
+Test Accuracy @ iter 600: 0.15625 
+Iter 800, Minibatch Loss = 1.909218
+Iter 1000, Minibatch Loss = 1.930459
+Iter 1200, Minibatch Loss = 1.950956
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-1200.cpkt
+Test loss @ iter 1200: 1.91645348072052 
+Test Accuracy @ iter 1200: 0.1796875 
+Iter 1400, Minibatch Loss = 1.911034
+Iter 1600, Minibatch Loss = 1.923198
+Iter 1800, Minibatch Loss = 1.916846
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-1800.cpkt
+Test loss @ iter 1800: 1.897749423980713 
+Test Accuracy @ iter 1800: 0.21875 
+Iter 2000, Minibatch Loss = 1.934115
+Iter 2200, Minibatch Loss = 1.905582
+Iter 2400, Minibatch Loss = 1.917245
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-2400.cpkt
+Test loss @ iter 2400: 1.9297358989715576 
+Test Accuracy @ iter 2400: 0.1953125 
+Iter 2600, Minibatch Loss = 1.923018
+Iter 2800, Minibatch Loss = 1.929252
+Iter 3000, Minibatch Loss = 1.916643
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-3000.cpkt
+Test loss @ iter 3000: 1.9105916023254395 
+Test Accuracy @ iter 3000: 0.25 
+Iter 3200, Minibatch Loss = 1.892690
+Iter 3400, Minibatch Loss = 1.926988
+Iter 3600, Minibatch Loss = 1.922219
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-3600.cpkt
+Test loss @ iter 3600: 1.9301373958587646 
+Test Accuracy @ iter 3600: 0.1484375 
+Iter 3800, Minibatch Loss = 1.907651
+Iter 4000, Minibatch Loss = 1.916112
+Iter 4200, Minibatch Loss = 1.921067
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-4200.cpkt
+Test loss @ iter 4200: 1.9039994478225708 
+Test Accuracy @ iter 4200: 0.234375 
+Iter 4400, Minibatch Loss = 1.916484
+Iter 4600, Minibatch Loss = 1.939247
+Iter 4800, Minibatch Loss = 1.911073
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-4800.cpkt
+Test loss @ iter 4800: 1.9223875999450684 
+Test Accuracy @ iter 4800: 0.2109375 
+Iter 5000, Minibatch Loss = 1.929622
+Iter 5200, Minibatch Loss = 1.902700
+Iter 5400, Minibatch Loss = 1.903587
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-5400.cpkt
+Test loss @ iter 5400: 1.9422173500061035 
+Test Accuracy @ iter 5400: 0.1953125 
+Iter 5600, Minibatch Loss = 1.929032
+Iter 5800, Minibatch Loss = 1.911025
+Iter 6000, Minibatch Loss = 1.908952
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_5_iter-6000.cpkt
+Test loss @ iter 6000: 1.9047222137451172 
+Test Accuracy @ iter 6000: 0.2421875 
+task  6
+Loaded 10000 data samples from qa6_yes-no-questions_train.txt
+Loaded 1000 data samples from qa6_yes-no-questions_test.txt
+Context Lengths: max = 162, min = 18, avg = 44
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.717652
+Iter 400, Minibatch Loss = 0.692869
+Iter 600, Minibatch Loss = 0.694762
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-600.cpkt
+Test loss @ iter 600: 0.6949939131736755 
+Test Accuracy @ iter 600: 0.484375 
+Iter 800, Minibatch Loss = 0.696278
+Iter 1000, Minibatch Loss = 0.699858
+Iter 1200, Minibatch Loss = 0.691774
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-1200.cpkt
+Test loss @ iter 1200: 0.6937937140464783 
+Test Accuracy @ iter 1200: 0.4765625 
+Iter 1400, Minibatch Loss = 0.689813
+Iter 1600, Minibatch Loss = 0.700399
+Iter 1800, Minibatch Loss = 0.693518
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-1800.cpkt
+Test loss @ iter 1800: 0.6925733089447021 
+Test Accuracy @ iter 1800: 0.546875 
+Iter 2000, Minibatch Loss = 0.698039
+Iter 2200, Minibatch Loss = 0.695854
+Iter 2400, Minibatch Loss = 0.691986
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-2400.cpkt
+Test loss @ iter 2400: 0.6895846724510193 
+Test Accuracy @ iter 2400: 0.546875 
+Iter 2600, Minibatch Loss = 0.698841
+Iter 2800, Minibatch Loss = 0.695879
+Iter 3000, Minibatch Loss = 0.692667
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-3000.cpkt
+Test loss @ iter 3000: 0.6937040686607361 
+Test Accuracy @ iter 3000: 0.46875 
+Iter 3200, Minibatch Loss = 0.690970
+Iter 3400, Minibatch Loss = 0.695833
+Iter 3600, Minibatch Loss = 0.697018
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-3600.cpkt
+Test loss @ iter 3600: 0.6932229399681091 
+Test Accuracy @ iter 3600: 0.5 
+Iter 3800, Minibatch Loss = 0.699175
+Iter 4000, Minibatch Loss = 0.691699
+Iter 4200, Minibatch Loss = 0.693493
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-4200.cpkt
+Test loss @ iter 4200: 0.6959016919136047 
+Test Accuracy @ iter 4200: 0.4765625 
+Iter 4400, Minibatch Loss = 0.698403
+Iter 4600, Minibatch Loss = 0.698189
+Iter 4800, Minibatch Loss = 0.693525
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-4800.cpkt
+Test loss @ iter 4800: 0.6933107376098633 
+Test Accuracy @ iter 4800: 0.4921875 
+Iter 5000, Minibatch Loss = 0.694136
+Iter 5200, Minibatch Loss = 0.693161
+Iter 5400, Minibatch Loss = 0.693081
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-5400.cpkt
+Test loss @ iter 5400: 0.693160891532898 
+Test Accuracy @ iter 5400: 0.5 
+Iter 5600, Minibatch Loss = 0.695921
+Iter 5800, Minibatch Loss = 0.694729
+Iter 6000, Minibatch Loss = 0.691540
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_6_iter-6000.cpkt
+Test loss @ iter 6000: 0.690947413444519 
+Test Accuracy @ iter 6000: 0.5390625 
+task  7
+Loaded 10000 data samples from qa7_counting_train.txt
+Loaded 1000 data samples from qa7_counting_test.txt
+Context Lengths: max = 328, min = 18, avg = 61
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.857965
+Iter 400, Minibatch Loss = 0.868729
+Iter 600, Minibatch Loss = 0.844358
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-600.cpkt
+Test loss @ iter 600: 0.7987005710601807 
+Test Accuracy @ iter 600: 0.4453125 
+Iter 800, Minibatch Loss = 0.849951
+Iter 1000, Minibatch Loss = 0.829737
+Iter 1200, Minibatch Loss = 0.844004
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-1200.cpkt
+Test loss @ iter 1200: 0.8797695636749268 
+Test Accuracy @ iter 1200: 0.5234375 
+Iter 1400, Minibatch Loss = 0.854578
+Iter 1600, Minibatch Loss = 0.839183
+Iter 1800, Minibatch Loss = 0.832766
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-1800.cpkt
+Test loss @ iter 1800: 0.8335309624671936 
+Test Accuracy @ iter 1800: 0.4765625 
+Iter 2000, Minibatch Loss = 0.837940
+Iter 2200, Minibatch Loss = 0.893458
+Iter 2400, Minibatch Loss = 0.843791
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-2400.cpkt
+Test loss @ iter 2400: 0.8698428869247437 
+Test Accuracy @ iter 2400: 0.4765625 
+Iter 2600, Minibatch Loss = 0.799665
+Iter 2800, Minibatch Loss = 0.835881
+Iter 3000, Minibatch Loss = 0.859375
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-3000.cpkt
+Test loss @ iter 3000: 0.9110444784164429 
+Test Accuracy @ iter 3000: 0.4453125 
+Iter 3200, Minibatch Loss = 0.881357
+Iter 3400, Minibatch Loss = 0.841538
+Iter 3600, Minibatch Loss = 0.929021
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-3600.cpkt
+Test loss @ iter 3600: 0.850317656993866 
+Test Accuracy @ iter 3600: 0.5 
+Iter 3800, Minibatch Loss = 0.881486
+Iter 4000, Minibatch Loss = 0.856364
+Iter 4200, Minibatch Loss = 0.868791
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-4200.cpkt
+Test loss @ iter 4200: 0.8321847915649414 
+Test Accuracy @ iter 4200: 0.515625 
+Iter 4400, Minibatch Loss = 0.845730
+Iter 4600, Minibatch Loss = 0.811337
+Iter 4800, Minibatch Loss = 0.809611
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-4800.cpkt
+Test loss @ iter 4800: 0.8516733646392822 
+Test Accuracy @ iter 4800: 0.4765625 
+Iter 5000, Minibatch Loss = 0.817188
+Iter 5200, Minibatch Loss = 0.831063
+Iter 5400, Minibatch Loss = 0.856467
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-5400.cpkt
+Test loss @ iter 5400: 0.7936277389526367 
+Test Accuracy @ iter 5400: 0.4375 
+Iter 5600, Minibatch Loss = 0.922321
+Iter 5800, Minibatch Loss = 0.842705
+Iter 6000, Minibatch Loss = 0.835176
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_7_iter-6000.cpkt
+Test loss @ iter 6000: 0.9093495607376099 
+Test Accuracy @ iter 6000: 0.4453125 
+task  8
+Loaded 10000 data samples from qa8_lists-sets_train.txt
+Loaded 1000 data samples from qa8_lists-sets_test.txt
+Context Lengths: max = 314, min = 16, avg = 58
+Answer Lengths: max = 5, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.425399
+Iter 400, Minibatch Loss = 0.331574
+Iter 600, Minibatch Loss = 0.346471
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-600.cpkt
+Test loss @ iter 600: 0.3244026005268097 
+Test Accuracy @ iter 600: 0.3515625 
+Iter 800, Minibatch Loss = 0.320996
+Iter 1000, Minibatch Loss = 0.333177
+Iter 1200, Minibatch Loss = 0.319396
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-1200.cpkt
+Test loss @ iter 1200: 0.3460942208766937 
+Test Accuracy @ iter 1200: 0.2734375 
+Iter 1400, Minibatch Loss = 0.328431
+Iter 1600, Minibatch Loss = 0.310816
+Iter 1800, Minibatch Loss = 0.322651
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-1800.cpkt
+Test loss @ iter 1800: 0.345754474401474 
+Test Accuracy @ iter 1800: 0.34375 
+Iter 2000, Minibatch Loss = 0.346455
+Iter 2200, Minibatch Loss = 0.344000
+Iter 2400, Minibatch Loss = 0.326588
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-2400.cpkt
+Test loss @ iter 2400: 0.3437111973762512 
+Test Accuracy @ iter 2400: 0.3203125 
+Iter 2600, Minibatch Loss = 0.348014
+Iter 2800, Minibatch Loss = 0.346814
+Iter 3000, Minibatch Loss = 0.338120
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-3000.cpkt
+Test loss @ iter 3000: 0.3499968945980072 
+Test Accuracy @ iter 3000: 0.34375 
+Iter 3200, Minibatch Loss = 0.320889
+Iter 3400, Minibatch Loss = 0.354121
+Iter 3600, Minibatch Loss = 0.330277
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-3600.cpkt
+Test loss @ iter 3600: 0.3162218928337097 
+Test Accuracy @ iter 3600: 0.328125 
+Iter 3800, Minibatch Loss = 0.327752
+Iter 4000, Minibatch Loss = 0.329307
+Iter 4200, Minibatch Loss = 0.328707
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-4200.cpkt
+Test loss @ iter 4200: 0.3547699451446533 
+Test Accuracy @ iter 4200: 0.3515625 
+Iter 4400, Minibatch Loss = 0.336116
+Iter 4600, Minibatch Loss = 0.330673
+Iter 4800, Minibatch Loss = 0.330761
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-4800.cpkt
+Test loss @ iter 4800: 0.35996726155281067 
+Test Accuracy @ iter 4800: 0.296875 
+Iter 5000, Minibatch Loss = 0.329954
+Iter 5200, Minibatch Loss = 0.308437
+Iter 5400, Minibatch Loss = 0.330174
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-5400.cpkt
+Test loss @ iter 5400: 0.3415691554546356 
+Test Accuracy @ iter 5400: 0.3359375 
+Iter 5600, Minibatch Loss = 0.329815
+Iter 5800, Minibatch Loss = 0.359225
+Iter 6000, Minibatch Loss = 0.317121
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_8_iter-6000.cpkt
+Test loss @ iter 6000: 0.32135912775993347 
+Test Accuracy @ iter 6000: 0.34375 
+task  9
+Loaded 10000 data samples from qa9_simple-negation_train.txt
+Loaded 1000 data samples from qa9_simple-negation_test.txt
+Context Lengths: max = 80, min = 18, avg = 44
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.657961
+Iter 400, Minibatch Loss = 0.643510
+Iter 600, Minibatch Loss = 0.625109
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-600.cpkt
+Test loss @ iter 600: 0.6296221017837524 
+Test Accuracy @ iter 600: 0.6875 
+Iter 800, Minibatch Loss = 0.651652
+Iter 1000, Minibatch Loss = 0.658817
+Iter 1200, Minibatch Loss = 0.659648
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-1200.cpkt
+Test loss @ iter 1200: 0.6765303015708923 
+Test Accuracy @ iter 1200: 0.6015625 
+Iter 1400, Minibatch Loss = 0.660604
+Iter 1600, Minibatch Loss = 0.649113
+Iter 1800, Minibatch Loss = 0.638694
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-1800.cpkt
+Test loss @ iter 1800: 0.663159191608429 
+Test Accuracy @ iter 1800: 0.6171875 
+Iter 2000, Minibatch Loss = 0.634670
+Iter 2200, Minibatch Loss = 0.633254
+Iter 2400, Minibatch Loss = 0.637853
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-2400.cpkt
+Test loss @ iter 2400: 0.6266484260559082 
+Test Accuracy @ iter 2400: 0.6015625 
+Iter 2600, Minibatch Loss = 0.566041
+Iter 2800, Minibatch Loss = 0.582271
+Iter 3000, Minibatch Loss = 0.489311
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-3000.cpkt
+Test loss @ iter 3000: 0.5083680152893066 
+Test Accuracy @ iter 3000: 0.765625 
+Iter 3200, Minibatch Loss = 0.448940
+Iter 3400, Minibatch Loss = 0.406279
+Iter 3600, Minibatch Loss = 0.337207
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-3600.cpkt
+Test loss @ iter 3600: 0.6395829319953918 
+Test Accuracy @ iter 3600: 0.7421875 
+Iter 3800, Minibatch Loss = 0.239202
+Iter 4000, Minibatch Loss = 0.225480
+Iter 4200, Minibatch Loss = 0.207532
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-4200.cpkt
+Test loss @ iter 4200: 0.9275509119033813 
+Test Accuracy @ iter 4200: 0.75 
+Iter 4400, Minibatch Loss = 0.110273
+Iter 4600, Minibatch Loss = 0.155510
+Iter 4800, Minibatch Loss = 0.157539
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-4800.cpkt
+Test loss @ iter 4800: 0.6140081882476807 
+Test Accuracy @ iter 4800: 0.8046875 
+Iter 5000, Minibatch Loss = 0.102372
+Iter 5200, Minibatch Loss = 0.037102
+Iter 5400, Minibatch Loss = 0.077880
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-5400.cpkt
+Test loss @ iter 5400: 0.9001625180244446 
+Test Accuracy @ iter 5400: 0.78125 
+Iter 5600, Minibatch Loss = 0.061968
+Iter 5800, Minibatch Loss = 0.055721
+Iter 6000, Minibatch Loss = 0.024451
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_9_iter-6000.cpkt
+Test loss @ iter 6000: 0.6918123960494995 
+Test Accuracy @ iter 6000: 0.8515625 
+task  10
+Loaded 10000 data samples from qa10_indefinite-knowledge_train.txt
+Loaded 1000 data samples from qa10_indefinite-knowledge_test.txt
+Context Lengths: max = 95, min = 18, avg = 48
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.993752
+Iter 400, Minibatch Loss = 1.039735
+Iter 600, Minibatch Loss = 1.027489
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-600.cpkt
+Test loss @ iter 600: 1.0044384002685547 
+Test Accuracy @ iter 600: 0.3828125 
+Iter 800, Minibatch Loss = 0.952520
+Iter 1000, Minibatch Loss = 0.909284
+Iter 1200, Minibatch Loss = 0.896526
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-1200.cpkt
+Test loss @ iter 1200: 0.890148401260376 
+Test Accuracy @ iter 1200: 0.5625 
+Iter 1400, Minibatch Loss = 0.884578
+Iter 1600, Minibatch Loss = 0.841563
+Iter 1800, Minibatch Loss = 0.711959
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-1800.cpkt
+Test loss @ iter 1800: 0.7268173694610596 
+Test Accuracy @ iter 1800: 0.4921875 
+Iter 2000, Minibatch Loss = 0.694426
+Iter 2200, Minibatch Loss = 0.683497
+Iter 2400, Minibatch Loss = 0.681569
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-2400.cpkt
+Test loss @ iter 2400: 0.7005711793899536 
+Test Accuracy @ iter 2400: 0.546875 
+Iter 2600, Minibatch Loss = 0.683962
+Iter 2800, Minibatch Loss = 0.674471
+Iter 3000, Minibatch Loss = 0.691577
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-3000.cpkt
+Test loss @ iter 3000: 0.684171199798584 
+Test Accuracy @ iter 3000: 0.5859375 
+Iter 3200, Minibatch Loss = 0.657173
+Iter 3400, Minibatch Loss = 0.634010
+Iter 3600, Minibatch Loss = 0.626898
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-3600.cpkt
+Test loss @ iter 3600: 0.7335533499717712 
+Test Accuracy @ iter 3600: 0.5546875 
+Iter 3800, Minibatch Loss = 0.625341
+Iter 4000, Minibatch Loss = 0.655257
+Iter 4200, Minibatch Loss = 0.581330
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-4200.cpkt
+Test loss @ iter 4200: 0.8243973255157471 
+Test Accuracy @ iter 4200: 0.6015625 
+Iter 4400, Minibatch Loss = 0.535053
+Iter 4600, Minibatch Loss = 0.437588
+Iter 4800, Minibatch Loss = 0.389992
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-4800.cpkt
+Test loss @ iter 4800: 0.6393341422080994 
+Test Accuracy @ iter 4800: 0.6875 
+Iter 5000, Minibatch Loss = 0.315714
+Iter 5200, Minibatch Loss = 0.242916
+Iter 5400, Minibatch Loss = 0.241888
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-5400.cpkt
+Test loss @ iter 5400: 0.9364444017410278 
+Test Accuracy @ iter 5400: 0.7265625 
+Iter 5600, Minibatch Loss = 0.229687
+Iter 5800, Minibatch Loss = 0.215961
+Iter 6000, Minibatch Loss = 0.133864
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_10_iter-6000.cpkt
+Test loss @ iter 6000: 1.3978924751281738 
+Test Accuracy @ iter 6000: 0.6640625 
+task  11
+Loaded 10000 data samples from qa11_basic-coreference_train.txt
+Loaded 1000 data samples from qa11_basic-coreference_test.txt
+Context Lengths: max = 79, min = 17, avg = 45
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.853726
+Iter 400, Minibatch Loss = 1.542931
+Iter 600, Minibatch Loss = 0.966410
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-600.cpkt
+Test loss @ iter 600: 0.980515718460083 
+Test Accuracy @ iter 600: 0.6484375 
+Iter 800, Minibatch Loss = 0.769788
+Iter 1000, Minibatch Loss = 0.579305
+Iter 1200, Minibatch Loss = 0.389151
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-1200.cpkt
+Test loss @ iter 1200: 0.32510480284690857 
+Test Accuracy @ iter 1200: 0.90625 
+Iter 1400, Minibatch Loss = 0.390708
+Iter 1600, Minibatch Loss = 0.314196
+Iter 1800, Minibatch Loss = 0.190595
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-1800.cpkt
+Test loss @ iter 1800: 0.2108011543750763 
+Test Accuracy @ iter 1800: 0.953125 
+Iter 2000, Minibatch Loss = 0.088018
+Iter 2200, Minibatch Loss = 0.069748
+Iter 2400, Minibatch Loss = 0.039538
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-2400.cpkt
+Test loss @ iter 2400: 0.29633277654647827 
+Test Accuracy @ iter 2400: 0.9375 
+Iter 2600, Minibatch Loss = 0.041635
+Iter 2800, Minibatch Loss = 0.026134
+Iter 3000, Minibatch Loss = 0.053626
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-3000.cpkt
+Test loss @ iter 3000: 0.13195911049842834 
+Test Accuracy @ iter 3000: 0.9609375 
+Iter 3200, Minibatch Loss = 0.004953
+Iter 3400, Minibatch Loss = 0.021504
+Iter 3600, Minibatch Loss = 0.042045
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-3600.cpkt
+Test loss @ iter 3600: 0.5506333112716675 
+Test Accuracy @ iter 3600: 0.90625 
+Iter 3800, Minibatch Loss = 0.012603
+Iter 4000, Minibatch Loss = 0.009567
+Iter 4200, Minibatch Loss = 0.020516
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-4200.cpkt
+Test loss @ iter 4200: 0.1539837121963501 
+Test Accuracy @ iter 4200: 0.9453125 
+Iter 4400, Minibatch Loss = 0.002779
+Iter 4600, Minibatch Loss = 0.005095
+Iter 4800, Minibatch Loss = 0.002812
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-4800.cpkt
+Test loss @ iter 4800: 0.36482781171798706 
+Test Accuracy @ iter 4800: 0.953125 
+Iter 5000, Minibatch Loss = 0.003767
+Iter 5200, Minibatch Loss = 0.002002
+Iter 5400, Minibatch Loss = 0.000753
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-5400.cpkt
+Test loss @ iter 5400: 0.25834792852401733 
+Test Accuracy @ iter 5400: 0.953125 
+Iter 5600, Minibatch Loss = 0.013732
+Iter 5800, Minibatch Loss = 0.001579
+Iter 6000, Minibatch Loss = 0.004830
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_11_iter-6000.cpkt
+Test loss @ iter 6000: 0.579792857170105 
+Test Accuracy @ iter 6000: 0.921875 
+task  12
+Loaded 10000 data samples from qa12_conjunction_train.txt
+Loaded 1000 data samples from qa12_conjunction_test.txt
+Context Lengths: max = 91, min = 20, avg = 53
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.859489
+Iter 400, Minibatch Loss = 1.810242
+Iter 600, Minibatch Loss = 1.356785
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-600.cpkt
+Test loss @ iter 600: 1.1567234992980957 
+Test Accuracy @ iter 600: 0.5546875 
+Iter 800, Minibatch Loss = 0.968746
+Iter 1000, Minibatch Loss = 0.816389
+Iter 1200, Minibatch Loss = 0.700475
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-1200.cpkt
+Test loss @ iter 1200: 0.6788442134857178 
+Test Accuracy @ iter 1200: 0.75 
+Iter 1400, Minibatch Loss = 0.801836
+Iter 1600, Minibatch Loss = 0.674769
+Iter 1800, Minibatch Loss = 0.082822
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-1800.cpkt
+Test loss @ iter 1800: 0.07468806952238083 
+Test Accuracy @ iter 1800: 0.984375 
+Iter 2000, Minibatch Loss = 0.069364
+Iter 2200, Minibatch Loss = 0.054682
+Iter 2400, Minibatch Loss = 0.045962
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-2400.cpkt
+Test loss @ iter 2400: 0.11685465276241302 
+Test Accuracy @ iter 2400: 0.96875 
+Iter 2600, Minibatch Loss = 0.028795
+Iter 2800, Minibatch Loss = 0.010778
+Iter 3000, Minibatch Loss = 0.022997
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-3000.cpkt
+Test loss @ iter 3000: 0.1233772486448288 
+Test Accuracy @ iter 3000: 0.96875 
+Iter 3200, Minibatch Loss = 0.022314
+Iter 3400, Minibatch Loss = 0.007626
+Iter 3600, Minibatch Loss = 0.004994
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-3600.cpkt
+Test loss @ iter 3600: 0.27345895767211914 
+Test Accuracy @ iter 3600: 0.9375 
+Iter 3800, Minibatch Loss = 0.007176
+Iter 4000, Minibatch Loss = 0.039568
+Iter 4200, Minibatch Loss = 0.006839
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-4200.cpkt
+Test loss @ iter 4200: 0.3529856204986572 
+Test Accuracy @ iter 4200: 0.953125 
+Iter 4400, Minibatch Loss = 0.003539
+Iter 4600, Minibatch Loss = 0.005592
+Iter 4800, Minibatch Loss = 0.004548
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-4800.cpkt
+Test loss @ iter 4800: 0.4503780007362366 
+Test Accuracy @ iter 4800: 0.9296875 
+Iter 5000, Minibatch Loss = 0.019978
+Iter 5200, Minibatch Loss = 0.000462
+Iter 5400, Minibatch Loss = 0.004608
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-5400.cpkt
+Test loss @ iter 5400: 0.15543460845947266 
+Test Accuracy @ iter 5400: 0.9609375 
+Iter 5600, Minibatch Loss = 0.000604
+Iter 5800, Minibatch Loss = 0.001838
+Iter 6000, Minibatch Loss = 0.013395
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_12_iter-6000.cpkt
+Test loss @ iter 6000: 0.3850542902946472 
+Test Accuracy @ iter 6000: 0.9375 
+task  13
+Loaded 10000 data samples from qa13_compound-coreference_train.txt
+Loaded 1000 data samples from qa13_compound-coreference_test.txt
+Context Lengths: max = 90, min = 19, avg = 51
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.858812
+Iter 400, Minibatch Loss = 0.695763
+Iter 600, Minibatch Loss = 0.447130
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-600.cpkt
+Test loss @ iter 600: 0.4039076268672943 
+Test Accuracy @ iter 600: 0.78125 
+Iter 800, Minibatch Loss = 0.429726
+Iter 1000, Minibatch Loss = 0.324717
+Iter 1200, Minibatch Loss = 0.317380
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-1200.cpkt
+Test loss @ iter 1200: 0.175580233335495 
+Test Accuracy @ iter 1200: 0.9609375 
+Iter 1400, Minibatch Loss = 0.351536
+Iter 1600, Minibatch Loss = 0.239774
+Iter 1800, Minibatch Loss = 0.195002
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-1800.cpkt
+Test loss @ iter 1800: 0.265789270401001 
+Test Accuracy @ iter 1800: 0.9296875 
+Iter 2000, Minibatch Loss = 0.213939
+Iter 2200, Minibatch Loss = 0.220588
+Iter 2400, Minibatch Loss = 0.170900
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-2400.cpkt
+Test loss @ iter 2400: 0.21026760339736938 
+Test Accuracy @ iter 2400: 0.953125 
+Iter 2600, Minibatch Loss = 0.200791
+Iter 2800, Minibatch Loss = 0.145529
+Iter 3000, Minibatch Loss = 0.175405
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-3000.cpkt
+Test loss @ iter 3000: 0.2983211576938629 
+Test Accuracy @ iter 3000: 0.9140625 
+Iter 3200, Minibatch Loss = 0.108686
+Iter 3400, Minibatch Loss = 0.114133
+Iter 3600, Minibatch Loss = 0.128855
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-3600.cpkt
+Test loss @ iter 3600: 0.4411758780479431 
+Test Accuracy @ iter 3600: 0.859375 
+Iter 3800, Minibatch Loss = 0.064103
+Iter 4000, Minibatch Loss = 0.068241
+Iter 4200, Minibatch Loss = 0.040174
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-4200.cpkt
+Test loss @ iter 4200: 0.6088180541992188 
+Test Accuracy @ iter 4200: 0.859375 
+Iter 4400, Minibatch Loss = 0.046438
+Iter 4600, Minibatch Loss = 0.072962
+Iter 4800, Minibatch Loss = 0.046340
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-4800.cpkt
+Test loss @ iter 4800: 0.8871588706970215 
+Test Accuracy @ iter 4800: 0.859375 
+Iter 5000, Minibatch Loss = 0.014624
+Iter 5200, Minibatch Loss = 0.014899
+Iter 5400, Minibatch Loss = 0.021411
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-5400.cpkt
+Test loss @ iter 5400: 0.7224023342132568 
+Test Accuracy @ iter 5400: 0.921875 
+Iter 5600, Minibatch Loss = 0.027618
+Iter 5800, Minibatch Loss = 0.028891
+Iter 6000, Minibatch Loss = 0.020577
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_13_iter-6000.cpkt
+Test loss @ iter 6000: 0.8335407972335815 
+Test Accuracy @ iter 6000: 0.890625 
+task  14
+Loaded 10000 data samples from qa14_time-reasoning_train.txt
+Loaded 1000 data samples from qa14_time-reasoning_test.txt
+Context Lengths: max = 123, min = 22, avg = 66
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.866223
+Iter 400, Minibatch Loss = 1.785849
+Iter 600, Minibatch Loss = 1.801680
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-600.cpkt
+Test loss @ iter 600: 1.7914787530899048 
+Test Accuracy @ iter 600: 0.171875 
+Iter 800, Minibatch Loss = 1.803080
+Iter 1000, Minibatch Loss = 1.804162
+Iter 1200, Minibatch Loss = 1.796807
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-1200.cpkt
+Test loss @ iter 1200: 1.7929582595825195 
+Test Accuracy @ iter 1200: 0.140625 
+Iter 1400, Minibatch Loss = 1.785275
+Iter 1600, Minibatch Loss = 1.789749
+Iter 1800, Minibatch Loss = 1.792639
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-1800.cpkt
+Test loss @ iter 1800: 1.7917137145996094 
+Test Accuracy @ iter 1800: 0.125 
+Iter 2000, Minibatch Loss = 1.789249
+Iter 2200, Minibatch Loss = 1.794136
+Iter 2400, Minibatch Loss = 1.791851
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-2400.cpkt
+Test loss @ iter 2400: 1.791819453239441 
+Test Accuracy @ iter 2400: 0.203125 
+Iter 2600, Minibatch Loss = 1.797331
+Iter 2800, Minibatch Loss = 1.784918
+Iter 3000, Minibatch Loss = 1.791401
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-3000.cpkt
+Test loss @ iter 3000: 1.7929742336273193 
+Test Accuracy @ iter 3000: 0.1796875 
+Iter 3200, Minibatch Loss = 1.791864
+Iter 3400, Minibatch Loss = 1.796100
+Iter 3600, Minibatch Loss = 1.793231
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-3600.cpkt
+Test loss @ iter 3600: 1.7911356687545776 
+Test Accuracy @ iter 3600: 0.171875 
+Iter 3800, Minibatch Loss = 1.790294
+Iter 4000, Minibatch Loss = 1.797120
+Iter 4200, Minibatch Loss = 1.791502
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-4200.cpkt
+Test loss @ iter 4200: 1.7920596599578857 
+Test Accuracy @ iter 4200: 0.171875 
+Iter 4400, Minibatch Loss = 1.787599
+Iter 4600, Minibatch Loss = 1.787685
+Iter 4800, Minibatch Loss = 1.792949
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-4800.cpkt
+Test loss @ iter 4800: 1.7936829328536987 
+Test Accuracy @ iter 4800: 0.15625 
+Iter 5000, Minibatch Loss = 1.790125
+Iter 5200, Minibatch Loss = 1.794244
+Iter 5400, Minibatch Loss = 1.793952
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-5400.cpkt
+Test loss @ iter 5400: 1.7908039093017578 
+Test Accuracy @ iter 5400: 0.1796875 
+Iter 5600, Minibatch Loss = 1.794806
+Iter 5800, Minibatch Loss = 1.787549
+Iter 6000, Minibatch Loss = 1.791703
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_14_iter-6000.cpkt
+Test loss @ iter 6000: 1.787841796875 
+Test Accuracy @ iter 6000: 0.1953125 
+task  15
+Loaded 10000 data samples from qa15_basic-deduction_train.txt
+Loaded 1000 data samples from qa15_basic-deduction_test.txt
+Context Lengths: max = 50, min = 50, avg = 50
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.296766
+Iter 400, Minibatch Loss = 1.133447
+Iter 600, Minibatch Loss = 1.090267
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-600.cpkt
+Test loss @ iter 600: 0.9267433881759644 
+Test Accuracy @ iter 600: 0.5625 
+Iter 800, Minibatch Loss = 0.860770
+Iter 1000, Minibatch Loss = 0.901672
+Iter 1200, Minibatch Loss = 0.773227
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-1200.cpkt
+Test loss @ iter 1200: 0.9418324828147888 
+Test Accuracy @ iter 1200: 0.59375 
+Iter 1400, Minibatch Loss = 0.756928
+Iter 1600, Minibatch Loss = 0.656241
+Iter 1800, Minibatch Loss = 0.652994
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-1800.cpkt
+Test loss @ iter 1800: 1.1658527851104736 
+Test Accuracy @ iter 1800: 0.5625 
+Iter 2000, Minibatch Loss = 0.654953
+Iter 2200, Minibatch Loss = 0.533959
+Iter 2400, Minibatch Loss = 0.445413
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-2400.cpkt
+Test loss @ iter 2400: 1.1583958864212036 
+Test Accuracy @ iter 2400: 0.546875 
+Iter 2600, Minibatch Loss = 0.499722
+Iter 2800, Minibatch Loss = 0.495826
+Iter 3000, Minibatch Loss = 0.437774
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-3000.cpkt
+Test loss @ iter 3000: 1.4870564937591553 
+Test Accuracy @ iter 3000: 0.4609375 
+Iter 3200, Minibatch Loss = 0.391271
+Iter 3400, Minibatch Loss = 0.298156
+Iter 3600, Minibatch Loss = 0.301298
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-3600.cpkt
+Test loss @ iter 3600: 1.7322094440460205 
+Test Accuracy @ iter 3600: 0.59375 
+Iter 3800, Minibatch Loss = 0.252095
+Iter 4000, Minibatch Loss = 0.233076
+Iter 4200, Minibatch Loss = 0.145576
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-4200.cpkt
+Test loss @ iter 4200: 1.5362693071365356 
+Test Accuracy @ iter 4200: 0.640625 
+Iter 4400, Minibatch Loss = 0.182840
+Iter 4600, Minibatch Loss = 0.119322
+Iter 4800, Minibatch Loss = 0.177585
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-4800.cpkt
+Test loss @ iter 4800: 2.2106430530548096 
+Test Accuracy @ iter 4800: 0.5 
+Iter 5000, Minibatch Loss = 0.146449
+Iter 5200, Minibatch Loss = 0.083667
+Iter 5400, Minibatch Loss = 0.121214
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-5400.cpkt
+Test loss @ iter 5400: 2.1715335845947266 
+Test Accuracy @ iter 5400: 0.625 
+Iter 5600, Minibatch Loss = 0.147979
+Iter 5800, Minibatch Loss = 0.066910
+Iter 6000, Minibatch Loss = 0.077969
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_15_iter-6000.cpkt
+Test loss @ iter 6000: 2.5122487545013428 
+Test Accuracy @ iter 6000: 0.578125 
+task  16
+Loaded 10000 data samples from qa16_basic-induction_train.txt
+Loaded 1000 data samples from qa16_basic-induction_test.txt
+Context Lengths: max = 46, min = 46, avg = 46
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 1.094515
+Iter 400, Minibatch Loss = 0.912878
+Iter 600, Minibatch Loss = 0.881692
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-600.cpkt
+Test loss @ iter 600: 0.868195652961731 
+Test Accuracy @ iter 600: 0.484375 
+Iter 800, Minibatch Loss = 0.884863
+Iter 1000, Minibatch Loss = 0.863082
+Iter 1200, Minibatch Loss = 0.868075
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-1200.cpkt
+Test loss @ iter 1200: 0.9154714345932007 
+Test Accuracy @ iter 1200: 0.5 
+Iter 1400, Minibatch Loss = 0.808167
+Iter 1600, Minibatch Loss = 0.824525
+Iter 1800, Minibatch Loss = 0.781794
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-1800.cpkt
+Test loss @ iter 1800: 0.8844491839408875 
+Test Accuracy @ iter 1800: 0.578125 
+Iter 2000, Minibatch Loss = 0.745092
+Iter 2200, Minibatch Loss = 0.702410
+Iter 2400, Minibatch Loss = 0.680439
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-2400.cpkt
+Test loss @ iter 2400: 1.1450968980789185 
+Test Accuracy @ iter 2400: 0.484375 
+Iter 2600, Minibatch Loss = 0.656001
+Iter 2800, Minibatch Loss = 0.540615
+Iter 3000, Minibatch Loss = 0.468152
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-3000.cpkt
+Test loss @ iter 3000: 1.7666951417922974 
+Test Accuracy @ iter 3000: 0.4296875 
+Iter 3200, Minibatch Loss = 0.349428
+Iter 3400, Minibatch Loss = 0.301343
+Iter 3600, Minibatch Loss = 0.288060
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-3600.cpkt
+Test loss @ iter 3600: 1.86741304397583 
+Test Accuracy @ iter 3600: 0.5703125 
+Iter 3800, Minibatch Loss = 0.226074
+Iter 4000, Minibatch Loss = 0.277853
+Iter 4200, Minibatch Loss = 0.205174
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-4200.cpkt
+Test loss @ iter 4200: 2.4739246368408203 
+Test Accuracy @ iter 4200: 0.5390625 
+Iter 4400, Minibatch Loss = 0.123469
+Iter 4600, Minibatch Loss = 0.151289
+Iter 4800, Minibatch Loss = 0.094258
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-4800.cpkt
+Test loss @ iter 4800: 2.9214959144592285 
+Test Accuracy @ iter 4800: 0.484375 
+Iter 5000, Minibatch Loss = 0.209255
+Iter 5200, Minibatch Loss = 0.094800
+Iter 5400, Minibatch Loss = 0.115090
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-5400.cpkt
+Test loss @ iter 5400: 2.970012664794922 
+Test Accuracy @ iter 5400: 0.453125 
+Iter 5600, Minibatch Loss = 0.064471
+Iter 5800, Minibatch Loss = 0.089926
+Iter 6000, Minibatch Loss = 0.072482
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_16_iter-6000.cpkt
+Test loss @ iter 6000: 3.2461800575256348 
+Test Accuracy @ iter 6000: 0.484375 
+task  17
+Loaded 10000 data samples from qa17_positional-reasoning_train.txt
+Loaded 1000 data samples from qa17_positional-reasoning_test.txt
+Context Lengths: max = 36, min = 25, avg = 30
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.585840
+Iter 400, Minibatch Loss = 0.620694
+Iter 600, Minibatch Loss = 0.608180
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-600.cpkt
+Test loss @ iter 600: 0.6204296350479126 
+Test Accuracy @ iter 600: 0.5703125 
+Iter 800, Minibatch Loss = 0.567841
+Iter 1000, Minibatch Loss = 0.622166
+Iter 1200, Minibatch Loss = 0.590068
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-1200.cpkt
+Test loss @ iter 1200: 0.5644422769546509 
+Test Accuracy @ iter 1200: 0.609375 
+Iter 1400, Minibatch Loss = 0.580400
+Iter 1600, Minibatch Loss = 0.600220
+Iter 1800, Minibatch Loss = 0.462533
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-1800.cpkt
+Test loss @ iter 1800: 0.5195326209068298 
+Test Accuracy @ iter 1800: 0.7109375 
+Iter 2000, Minibatch Loss = 0.447187
+Iter 2200, Minibatch Loss = 0.380018
+Iter 2400, Minibatch Loss = 0.323922
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-2400.cpkt
+Test loss @ iter 2400: 0.4552774429321289 
+Test Accuracy @ iter 2400: 0.7421875 
+Iter 2600, Minibatch Loss = 0.331400
+Iter 2800, Minibatch Loss = 0.325351
+Iter 3000, Minibatch Loss = 0.288526
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-3000.cpkt
+Test loss @ iter 3000: 0.5570892095565796 
+Test Accuracy @ iter 3000: 0.78125 
+Iter 3200, Minibatch Loss = 0.260934
+Iter 3400, Minibatch Loss = 0.263070
+Iter 3600, Minibatch Loss = 0.249337
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-3600.cpkt
+Test loss @ iter 3600: 0.5403677225112915 
+Test Accuracy @ iter 3600: 0.765625 
+Iter 3800, Minibatch Loss = 0.217030
+Iter 4000, Minibatch Loss = 0.223816
+Iter 4200, Minibatch Loss = 0.194901
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-4200.cpkt
+Test loss @ iter 4200: 0.7193735241889954 
+Test Accuracy @ iter 4200: 0.7265625 
+Iter 4400, Minibatch Loss = 0.174520
+Iter 4600, Minibatch Loss = 0.157421
+Iter 4800, Minibatch Loss = 0.158406
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-4800.cpkt
+Test loss @ iter 4800: 0.675154983997345 
+Test Accuracy @ iter 4800: 0.78125 
+Iter 5000, Minibatch Loss = 0.144511
+Iter 5200, Minibatch Loss = 0.144742
+Iter 5400, Minibatch Loss = 0.043461
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-5400.cpkt
+Test loss @ iter 5400: 0.6471476554870605 
+Test Accuracy @ iter 5400: 0.875 
+Iter 5600, Minibatch Loss = 0.092761
+Iter 5800, Minibatch Loss = 0.066669
+Iter 6000, Minibatch Loss = 0.040807
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_17_iter-6000.cpkt
+Test loss @ iter 6000: 1.7301359176635742 
+Test Accuracy @ iter 6000: 0.703125 
+task  18
+Loaded 10000 data samples from qa18_size-reasoning_train.txt
+Loaded 1000 data samples from qa18_size-reasoning_test.txt
+Context Lengths: max = 179, min = 43, avg = 60
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.706045
+Iter 400, Minibatch Loss = 0.689502
+Iter 600, Minibatch Loss = 0.693033
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-600.cpkt
+Test loss @ iter 600: 0.6920363306999207 
+Test Accuracy @ iter 600: 0.5625 
+Iter 800, Minibatch Loss = 0.695722
+Iter 1000, Minibatch Loss = 0.697090
+Iter 1200, Minibatch Loss = 0.692403
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-1200.cpkt
+Test loss @ iter 1200: 0.6933379173278809 
+Test Accuracy @ iter 1200: 0.453125 
+Iter 1400, Minibatch Loss = 0.691901
+Iter 1600, Minibatch Loss = 0.698106
+Iter 1800, Minibatch Loss = 0.692318
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-1800.cpkt
+Test loss @ iter 1800: 0.6933963298797607 
+Test Accuracy @ iter 1800: 0.46875 
+Iter 2000, Minibatch Loss = 0.693993
+Iter 2200, Minibatch Loss = 0.692877
+Iter 2400, Minibatch Loss = 0.691432
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-2400.cpkt
+Test loss @ iter 2400: 0.6946035027503967 
+Test Accuracy @ iter 2400: 0.46875 
+Iter 2600, Minibatch Loss = 0.694186
+Iter 2800, Minibatch Loss = 0.694216
+Iter 3000, Minibatch Loss = 0.695237
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-3000.cpkt
+Test loss @ iter 3000: 0.6947451829910278 
+Test Accuracy @ iter 3000: 0.4453125 
+Iter 3200, Minibatch Loss = 0.692580
+Iter 3400, Minibatch Loss = 0.698806
+Iter 3600, Minibatch Loss = 0.695078
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-3600.cpkt
+Test loss @ iter 3600: 0.692564845085144 
+Test Accuracy @ iter 3600: 0.5390625 
+Iter 3800, Minibatch Loss = 0.696006
+Iter 4000, Minibatch Loss = 0.692193
+Iter 4200, Minibatch Loss = 0.695919
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-4200.cpkt
+Test loss @ iter 4200: 0.6917051076889038 
+Test Accuracy @ iter 4200: 0.5546875 
+Iter 4400, Minibatch Loss = 0.691893
+Iter 4600, Minibatch Loss = 0.694447
+Iter 4800, Minibatch Loss = 0.693951
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-4800.cpkt
+Test loss @ iter 4800: 0.6924140453338623 
+Test Accuracy @ iter 4800: 0.546875 
+Iter 5000, Minibatch Loss = 0.694709
+Iter 5200, Minibatch Loss = 0.697757
+Iter 5400, Minibatch Loss = 0.691929
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-5400.cpkt
+Test loss @ iter 5400: 0.6953864693641663 
+Test Accuracy @ iter 5400: 0.4375 
+Iter 5600, Minibatch Loss = 0.695898
+Iter 5800, Minibatch Loss = 0.696975
+Iter 6000, Minibatch Loss = 0.691318
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_18_iter-6000.cpkt
+Test loss @ iter 6000: 0.6934311389923096 
+Test Accuracy @ iter 6000: 0.4296875 
+task  19
+Loaded 10000 data samples from qa19_path-finding_train.txt
+Loaded 1000 data samples from qa19_path-finding_test.txt
+Context Lengths: max = 51, min = 51, avg = 51
+Answer Lengths: max = 2, min = 2, avg = 2
+Iter 200, Minibatch Loss = 1.348900
+Iter 400, Minibatch Loss = 1.279037
+Iter 600, Minibatch Loss = 1.265261
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-600.cpkt
+Test loss @ iter 600: 1.2541108131408691 
+Test Accuracy @ iter 600: 0.078125 
+Iter 800, Minibatch Loss = 1.258741
+Iter 1000, Minibatch Loss = 1.255542
+Iter 1200, Minibatch Loss = 1.248452
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-1200.cpkt
+Test loss @ iter 1200: 1.2444156408309937 
+Test Accuracy @ iter 1200: 0.109375 
+Iter 1400, Minibatch Loss = 1.238753
+Iter 1600, Minibatch Loss = 1.236693
+Iter 1800, Minibatch Loss = 1.232618
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-1800.cpkt
+Test loss @ iter 1800: 1.2298064231872559 
+Test Accuracy @ iter 1800: 0.0859375 
+Iter 2000, Minibatch Loss = 1.222064
+Iter 2200, Minibatch Loss = 1.231488
+Iter 2400, Minibatch Loss = 1.189603
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-2400.cpkt
+Test loss @ iter 2400: 1.2217907905578613 
+Test Accuracy @ iter 2400: 0.1015625 
+Iter 2600, Minibatch Loss = 1.163539
+Iter 2800, Minibatch Loss = 1.102269
+Iter 3000, Minibatch Loss = 1.085102
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-3000.cpkt
+Test loss @ iter 3000: 1.1877410411834717 
+Test Accuracy @ iter 3000: 0.1171875 
+Iter 3200, Minibatch Loss = 1.011218
+Iter 3400, Minibatch Loss = 0.907143
+Iter 3600, Minibatch Loss = 0.878098
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-3600.cpkt
+Test loss @ iter 3600: 1.3355333805084229 
+Test Accuracy @ iter 3600: 0.2109375 
+Iter 3800, Minibatch Loss = 0.851592
+Iter 4000, Minibatch Loss = 0.843802
+Iter 4200, Minibatch Loss = 0.865963
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-4200.cpkt
+Test loss @ iter 4200: 1.684004545211792 
+Test Accuracy @ iter 4200: 0.140625 
+Iter 4400, Minibatch Loss = 0.721751
+Iter 4600, Minibatch Loss = 0.725800
+Iter 4800, Minibatch Loss = 0.696470
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-4800.cpkt
+Test loss @ iter 4800: 1.5747158527374268 
+Test Accuracy @ iter 4800: 0.234375 
+Iter 5000, Minibatch Loss = 0.700427
+Iter 5200, Minibatch Loss = 0.624541
+Iter 5400, Minibatch Loss = 0.590630
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-5400.cpkt
+Test loss @ iter 5400: 1.5369709730148315 
+Test Accuracy @ iter 5400: 0.234375 
+Iter 5600, Minibatch Loss = 0.579841
+Iter 5800, Minibatch Loss = 0.608299
+Iter 6000, Minibatch Loss = 0.570205
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_19_iter-6000.cpkt
+Test loss @ iter 6000: 1.6939175128936768 
+Test Accuracy @ iter 6000: 0.2421875 
+task  20
+Loaded 10000 data samples from qa20_agents-motivations_train.txt
+Loaded 1000 data samples from qa20_agents-motivations_test.txt
+Context Lengths: max = 76, min = 9, avg = 36
+Answer Lengths: max = 1, min = 1, avg = 1
+Iter 200, Minibatch Loss = 0.614369
+Iter 400, Minibatch Loss = 0.321787
+Iter 600, Minibatch Loss = 0.315859
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-600.cpkt
+Test loss @ iter 600: 0.23268872499465942 
+Test Accuracy @ iter 600: 0.859375 
+Iter 800, Minibatch Loss = 0.052797
+Iter 1000, Minibatch Loss = 0.024473
+Iter 1200, Minibatch Loss = 0.034622
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-1200.cpkt
+Test loss @ iter 1200: 0.06255469471216202 
+Test Accuracy @ iter 1200: 0.984375 
+Iter 1400, Minibatch Loss = 0.024982
+Iter 1600, Minibatch Loss = 0.023728
+Iter 1800, Minibatch Loss = 0.051844
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-1800.cpkt
+Test loss @ iter 1800: 0.03133625537157059 
+Test Accuracy @ iter 1800: 0.9765625 
+Iter 2000, Minibatch Loss = 0.028742
+Iter 2200, Minibatch Loss = 0.019787
+Iter 2400, Minibatch Loss = 0.034782
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-2400.cpkt
+Test loss @ iter 2400: 0.0577988401055336 
+Test Accuracy @ iter 2400: 0.9765625 
+Iter 2600, Minibatch Loss = 0.014401
+Iter 2800, Minibatch Loss = 0.047697
+Iter 3000, Minibatch Loss = 0.037054
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-3000.cpkt
+Test loss @ iter 3000: 0.01449400931596756 
+Test Accuracy @ iter 3000: 0.9921875 
+Iter 3200, Minibatch Loss = 0.024371
+Iter 3400, Minibatch Loss = 0.014583
+Iter 3600, Minibatch Loss = 0.013313
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-3600.cpkt
+Test loss @ iter 3600: 0.049132343381643295 
+Test Accuracy @ iter 3600: 0.984375 
+Iter 3800, Minibatch Loss = 0.014733
+Iter 4000, Minibatch Loss = 0.007106
+Iter 4200, Minibatch Loss = 0.000502
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-4200.cpkt
+Test loss @ iter 4200: 7.043412188068032e-05 
+Test Accuracy @ iter 4200: 1.0 
+Iter 4400, Minibatch Loss = 0.001601
+Iter 4600, Minibatch Loss = 0.000564
+Iter 4800, Minibatch Loss = 0.001814
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-4800.cpkt
+Test loss @ iter 4800: 0.10297834128141403 
+Test Accuracy @ iter 4800: 0.984375 
+Iter 5000, Minibatch Loss = 0.000773
+Iter 5200, Minibatch Loss = 0.000876
+Iter 5400, Minibatch Loss = 0.001169
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-5400.cpkt
+Test loss @ iter 5400: 0.06273280084133148 
+Test Accuracy @ iter 5400: 0.9921875 
+Iter 5600, Minibatch Loss = 0.000238
+Iter 5800, Minibatch Loss = 0.000100
+Iter 6000, Minibatch Loss = 0.000219
+Model saved in file: /home/ai2-rey/Documents/code/Nikhita/deep_QA/weights/bAbI_QA_20_iter-6000.cpkt
+Test loss @ iter 6000: 0.01795455440878868 
+Test Accuracy @ iter 6000: 0.9921875 
